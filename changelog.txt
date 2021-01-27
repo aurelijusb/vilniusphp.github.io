@@ -1,0 +1,10 @@
+6f6b1dcaa6a2ca78ebddf8d22fa5edbce68f6379 Commit changelog file
+53b6e67ac4644cd3150f80859b27d1edba339ddf Deploy HTML to GitHub pages
+bc6b4c0d1e49df4ded8913bd8378f1cbffa0cf08 Fix for older composer version
+52bec4ded04bd7fee38b943ac0ab2a2a053705aa Building project via GithUb actions
+76c74c8829bdc725801c2417c5c7e585881b415b Add new 2021 sponsors
+01568c61aab62b5d0814619c8b1be3d4e0b504a9 V8.1
+a766bbf5081a978ffcc7fec5e6372ebd4791b1fe Updated zoom url
+cb394bc789e9133c5563d43f5291637c7fb8940d 0x61: Living code
+8d07291e38336a4aaeddc120e815333d44c99e34 All friends are sponsors
+41fa482a0b87d4bb86e177c740f64a2fe4986289 Announce 0x61: 8 metai
